@@ -1,0 +1,4 @@
+1. yarn global add ts-node-dev
+yarn add --dev @types/node
+2. ts-node-dev index.ts
+3. curl -v -d name="frank"
